@@ -3,6 +3,7 @@ Project from an early CS security course. Program that emulates a basic filesyst
 
 ## The task:
 Create a program that emulates a filesystem with file permissions (rwx with chmod). Multiple basic commands were required: 
+
 - ls
 - touch
 - mkdir
@@ -14,4 +15,5 @@ Create a program that emulates a filesystem with file permissions (rwx with chmo
 - chmod
 - chown
 - quit
+
 Commands that directly worked with files (read, write, execute) were not required to actually do those things, only check permissons.
